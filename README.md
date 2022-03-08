@@ -3,6 +3,7 @@ This is the basic e-commerce website of wines developed using ReactJs, Redux, St
 
 * [How to run the app](#how-to-run-the-app)
 * [Added Functionalities](#added-functionalities)
+* [Demo](#demo]
 
 
 ## How to run the app
@@ -24,5 +25,5 @@ To run this application, you need to follow the following steps:
 * Send products to checkout page
 * Form validation
 
-##demo
+## demo
 ![checkout](https://github.com/mehtab39/WineShopClient/blob/main/public/checkout.png?raw=true)
