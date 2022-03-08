@@ -25,4 +25,4 @@ To run this application, you need to follow the following steps:
 * Form validation
 
 ##demo
-[!checkout](https://github.com/mehtab39/WineShopClient/blob/main/public/checkout.png?raw=true)
+![checkout](https://github.com/mehtab39/WineShopClient/blob/main/public/checkout.png?raw=true)
