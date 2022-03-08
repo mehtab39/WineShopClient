@@ -3,7 +3,7 @@ This is the basic e-commerce website of wines developed using ReactJs, Redux, St
 
 * [How to run the app](#how-to-run-the-app)
 * [Added Functionalities](#added-functionalities)
-* [Demo](#demo]
+* [Demo](#demo)
 
 
 ## How to run the app
