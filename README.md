@@ -24,3 +24,5 @@ To run this application, you need to follow the following steps:
 * Send products to checkout page
 * Form validation
 
+##demo
+[!checkout](https://github.com/mehtab39/WineShopClient/blob/main/public/checkout.png?raw=true)
