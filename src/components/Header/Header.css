@@ -1,0 +1,70 @@
+.navbar {
+  /* border: 1px solid blue; */
+  background-color: rgb(18, 19, 23);
+  padding: 29px 60px 15px 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  width: 35px;
+  height: 53px;
+  cursor: pointer;
+  /* color: rgb(18,19,23);
+      background-color: rgb(161,162,163); */
+}
+.dislogo {
+  width: 110px;
+  height: 64px;
+  margin-top: -5px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.flex {
+  display: flex;
+}
+.flex > a {
+  margin-left: 62px;
+  font-size: 25px;
+  margin-top: 11px;
+  font-weight: 600;
+  color: rgb(161, 162, 163);
+  text-decoration: none;
+}
+.flex > a:hover {
+  color: white;
+  transition: ease 0.3s all;
+}
+.f1 {
+  gap: 15px;
+  margin-left: 55px;
+}
+.f1 > button {
+  background-color: rgb(33, 117, 217);
+  color: white;
+  border: none;
+  border-radius: 3px;
+  width: 140px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.f1 > button > #sin {
+  text-decoration: none;
+  color: white;
+}
+#searchinput {
+  width: 300px;
+  border-style: none;
+  border-bottom: 2px solid rgb(161, 162, 163);
+  font-size: 16px;
+  background-color: rgb(18, 19, 23);
+  color: rgb(161, 162, 163);
+  background-image: url(https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/iconsearch.png);
+  background-position: 300px 1px;
+  background-repeat: no-repeat;
+  padding: 4px 25px 12px 9px;
+  margin: 12px 12px 0 6em;
+  outline: none;
+}
+#searchform {
+  margin-top: -2px;
+}
